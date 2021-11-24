@@ -1,0 +1,7 @@
+name: BanSystemSpigot
+version: '${project.version}'
+main: de.developingrene.bansystemspigot.BanSystemSpigot
+prefix: [ BSS ]
+authors: [ a ]
+description: a
+website: http://a.de
