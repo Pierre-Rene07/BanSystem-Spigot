@@ -5,3 +5,5 @@ prefix: [ BSS ]
 authors: [ a ]
 description: a
 website: http://a.de
+commands:
+  pban:
