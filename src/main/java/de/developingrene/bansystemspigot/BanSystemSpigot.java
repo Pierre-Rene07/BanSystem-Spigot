@@ -21,7 +21,7 @@ public final class BanSystemSpigot extends JavaPlugin {
         pm.registerEvents(new Listeners(), this);
         Bukkit.getServer().getLogger().log(Level.FINE, "Loaded Listeners");
 
-        this.getCommand("pban").setExecutor(new BanCommands());
+        this.getCommand("pban").setExecutor(new PBanCommand());
         Bukkit.getServer().getLogger().log(Level.FINE, "Loaded Commands");
 
     }

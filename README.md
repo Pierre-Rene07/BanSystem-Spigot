@@ -6,5 +6,5 @@
 
 Name  | Description | Permission
 :---:         | :---:         | :---:
-Ban Players  | Users with this permission will be able to ban other users | `bansystem.admin.ban`
+Permanent Ban Players  | Users with this permission will be able to ban other users for ever | `bansystem.admin.pban`
 Ignore Bans  | Users with this permission will no be banned | `bansystem.admin.ignore`
